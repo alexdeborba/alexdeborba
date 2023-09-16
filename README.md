@@ -12,7 +12,7 @@ In the expansive realm of [WordPress](https://profiles.wordpress.org/alexdeborba
 
 The theme retains a gothic aesthetic, drawing in both experienced and novice writers with its clear and minimalist design. Despite its lightweight nature, Séance does not compromise on its bold presence. It integrates color palettes centered around accessibility and is enriched with a range of meticulously crafted Gutenberg Block Patterns. Staying ahead in the technological curve, Séance fully supports the [Full Site Editing](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) features introduced with [WordPress 5.9.0](https://wordpress.org/news/2021/11/a-look-at-wordpress-5-9/), offering users a novel writing and visual experience.
 
-My commitment to the WordPress community further solidifies as I actively participate in the ["Five for the Future"](https://wordpress.org/five-for-the-future/pledge/atmostfear-entertainment/) initiative, generously sponsored by [Atmostfear Entertainment](https://www.atmostfear-entertainment.com/).
+My commitment to the WordPress community further solidifies as I actively participate in the [Five for the Future](https://wordpress.org/five-for-the-future/pledge/atmostfear-entertainment/) initiative, generously sponsored by [Atmostfear Entertainment](https://www.atmostfear-entertainment.com/).
 
 Open-source contributions, collaborations, and discussions are wholeheartedly invited. Upholding community standards and fostering mutual respect is of utmost importance, ensuring a harmonious and enlightening engagement.
 
