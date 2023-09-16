@@ -1,6 +1,7 @@
-### Hi there 👋
+### 
 
-<!--
+<!--![alexdeborba](https://github.com/alexdeborba/alexdeborba/assets/5738223/acbf12eb-06e2-4971-8bde-bf6ea1ae325f)
+
 **alexdeborba/alexdeborba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
