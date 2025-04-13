@@ -1,6 +1,6 @@
 # A Glimpse into My Digital Realm
 
-![Alex de Borba](https://github.com/alexdeborba/alexdeborba/assets/5738223/acbf12eb-06e2-4971-8bde-bf6ea1ae325f)
+![Alex de Borba](https://github.com/user-attachments/assets/090eed65-a2ef-4097-9480-91e15f9fa24e)
 
 With the unveiling of my recent accomplishments, the journey of curating my personal GitHub portfolio has begun. This moment signifies another pivotal step in my ever-evolving professional odyssey.
 
